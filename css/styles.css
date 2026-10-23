@@ -241,3 +241,4 @@ input:focus-visible + .slider { outline: 2px solid var(--accent); outline-offset
   color: var(--muted);
 }
 .site-footer p { margin: 0 0 10px; }
+.site-footer a { color: var(--accent); }
