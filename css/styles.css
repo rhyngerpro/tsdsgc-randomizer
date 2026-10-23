@@ -7,6 +7,7 @@
   --muted: #9a9a9a;
   --accent: #d9b36c;
   --card-empty: #1c1c1c;
+  --card-size: 100px; /* tamaño de las imágenes de personajes: cámbialo aquí */
 }
 :root[data-theme="light"] {
   --bg: #f4f1ea;
@@ -187,7 +188,7 @@ input:focus-visible + .slider { outline: 2px solid var(--accent); outline-offset
 }
 .card {
   width: 100%;
-  max-width: 125px;
+  max-width: var(--card-size);
   aspect-ratio: 1;
   border-radius: 6px;
   overflow: hidden;
@@ -200,7 +201,7 @@ input:focus-visible + .slider { outline: 2px solid var(--accent); outline-offset
   margin: 0;
   min-height: 3.6em;
   width: 100%;
-  max-width: 125px;
+  max-width: var(--card-size);
   font-size: 0.85rem;
   line-height: 1.2;
   color: var(--text);
