@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SDS Grand Cross Randomizer</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2714%27 fill=%27%23d9b36c%27/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+  <!-- type="module" permite usar import/export en main.js -->
+  <script type="module" src="js/main.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>Grand Cross Randomizer</h1>
+    <label class="theme-switch" title="Cambiar tema">
+      <span aria-hidden="true">🌙</span>
+      <input type="checkbox" id="theme-toggle" aria-label="Modo claro">
+      <span class="slider"></span>
+      <span aria-hidden="true">☀️</span>
+    </label>
+  </header>
+
+  <main>
+    <!-- Panel de filtros (las casillas se generan desde js/ui.js) -->
+    <section>
+      <button id="filters-toggle" class="filters-heading" aria-expanded="true">
+        Filtros <span class="chevron">▴</span>
+      </button>
+      <div id="filters-panel" class="filters-panel">
+        <fieldset class="filter-group" id="filter-grade"><legend>Rareza</legend></fieldset>
+        <fieldset class="filter-group" id="filter-race"><legend>Raza</legend></fieldset>
+        <fieldset class="filter-group" id="filter-attribute"><legend>Atributo</legend></fieldset>
+      </div>
+    </section>
+
+    <label class="compact-row">
+      <span>Versión compacta</span>
+      <input type="checkbox" id="compact-toggle">
+      <span class="slider"></span>
+    </label>
+
+    <!-- Fila de botones: comodín a la izquierda, escuadrón a la derecha -->
+    <div class="actions">
+      <button id="wildcard-btn" class="btn">Select character</button>
+      <button id="squad-btn" class="btn">Select squad</button>
+    </div>
+
+    <p id="notice" class="notice" role="status" aria-live="polite"></p>
+
+    <!-- 5 casillas: la primera es el comodín, las otras 4 son los slots 1 a 4 -->
+    <div id="team" class="team"></div>
+  </main>
+</body>
+</html>

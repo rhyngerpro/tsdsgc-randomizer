@@ -1,0 +1,5203 @@
+[
+  {
+    "name": "Ainz Ooal Gown [Ruler of Nazarick]",
+    "image": "assets/images/[Ruler of Nazarick] Ainz Ooal Gown.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ainz Ooal Gown"
+    ]
+  },
+  {
+    "name": "Albedo [Pure-White Devil]",
+    "image": "assets/images/[Pure-White Devil] Albedo.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Albedo"
+    ]
+  },
+  {
+    "name": "Allioni Member [Beard of the Mountain Cat]",
+    "image": "assets/images/[Beard of the Mountain Cat] Member Allioni.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Allioni"
+    ]
+  },
+  {
+    "name": "Alpha First Member [Shadow Garden]",
+    "image": "assets/images/[Shadow Garden] First Member Alpha.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Alpha"
+    ]
+  },
+  {
+    "name": "Anghalhad Brave Girl [A New Adventure]",
+    "image": "assets/images/[A New Adventure] Brave Girl Anghalhad.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Anghalhad"
+    ]
+  },
+  {
+    "name": "Anghalhad Brave Girl [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] Brave Girl Anghalahad.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Anghalhad"
+    ]
+  },
+  {
+    "name": "Aqua Water Goddess [Arch Priest]",
+    "image": "assets/images/[Arch Priest] Water Goddess Aqua.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Aqua"
+    ]
+  },
+  {
+    "name": "Arden Holy Knight [The Pleiades of the Azure Sky]",
+    "image": "assets/images/[The Pleiades of the Azure Sky] Holy Knight Arden.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Arden"
+    ]
+  },
+  {
+    "name": "Arthur Excalibur [Chosen King]",
+    "image": "assets/images/[Chosen King] Excalibur Arthur.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur Excalibur [Will of the Holy Sword]",
+    "image": "assets/images/[Will of the Holy Sword] Excalibur Arthur.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur New King [Light of Hope]",
+    "image": "assets/images/[Light of Hope] New King Arthur.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur New King [Camelot's Sword]",
+    "image": "assets/images/[Camelot's Sword] New King Arthur.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur Adventurer [King of Prophecies]",
+    "image": "assets/images/[King of Prophecies] Adventurer Arthur.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur New King [Destined Heir]",
+    "image": "assets/images/[Destined Heir] New King Arthur.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Arthur Chaos [Broken Balance]",
+    "image": "assets/images/[Broken Balance] Chaos Arthur.png",
+    "grade": "ur",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Arthur"
+    ]
+  },
+  {
+    "name": "Athena Asamiya [KOF '98]",
+    "image": "assets/images/[KOF '98] Asamiya Athena.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Athena Asamiya"
+    ]
+  },
+  {
+    "name": "Baldr God of Light [Hideen Glimmer]",
+    "image": "assets/images/[Hidden Glimmer] God of Light Baldr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Baldr"
+    ]
+  },
+  {
+    "name": "Ban Transcendence [The Seven Deadly Sins]",
+    "image": "assets/images/[The Seven Deadly Sins] Transcendence Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Transcendent [Helping Hands]",
+    "image": "assets/images/[Helping Hands] Transcendent Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Purgatory [Undead Survivor]",
+    "image": "assets/images/[Undead Survivor] Purgatory Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Brawler [Ragnarok]",
+    "image": "assets/images/[Ragnarok] Brawler Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Brawler [Snatch]",
+    "image": "assets/images/[Snatch] Brawler Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Brawler [Outlaw]",
+    "image": "assets/images/[Outlaw] Brawler Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Prisoner [Undead]",
+    "image": "assets/images/[Undead] Prisoner Ban.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Adventurer [The Fox Sin of Greed]",
+    "image": "assets/images/[The Fox Sin of Greed] Adventurer Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Adventurer [Nunchaku]",
+    "image": "assets/images/[Nunchaku] Adventurer Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Ban Adventurer [Ale Collector]",
+    "image": "assets/images/[Ale Collector] Adventurer Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ban"
+    ]
+  },
+  {
+    "name": "Beatrice Caretaker of the Forbidden Library [ReZero]",
+    "image": "assets/images/[ReZero] Caretaker of the Forbidden Library Beatrice.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Beatrice"
+    ]
+  },
+  {
+    "name": "Bellion Captain [The Six Knights of Black]",
+    "image": "assets/images/[The Six Knights of Black] Captain Bellion.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Bellion"
+    ]
+  },
+  {
+    "name": "Benimaru [Kijin]",
+    "image": "assets/images/[Kijin] Benimaru.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Benimaru"
+    ]
+  },
+  {
+    "name": "Beru Predator [Army of Shadows]",
+    "image": "assets/images/[Army of Shadows] Predator Beru.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Beru"
+    ]
+  },
+  {
+    "name": "Beta Second Member [Shadow Garden]",
+    "image": "assets/images/[Shadow Garden] Second Member Beta.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Beta"
+    ]
+  },
+  {
+    "name": "Brunhild Princess [Guardian of Battlefield]",
+    "image": "assets/images/[Guardian of Battlefield] Princess Brynhildr.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Brunhild"
+    ]
+  },
+  {
+    "name": "Brunhild Princess [Bride of the Snow Country]",
+    "image": "assets/images/[Bride of the Snow Country] Princess Brunhild.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Brunhild"
+    ]
+  },
+  {
+    "name": "Cain Knight of Danafor [Burning Ember]",
+    "image": "assets/images/[Burning Ember] Knight of Danafor Cain.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Cain"
+    ]
+  },
+  {
+    "name": "Camila Guardian Deity [Executor of Darkness]",
+    "image": "assets/images/[Executor of Darkness] Guardian Deity Camila.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Camila"
+    ]
+  },
+  {
+    "name": "Camila Guardian Deity [Heart of the Beast]",
+    "image": "assets/images/[Heart of the Beast] Guardian Deity Camila.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Camila"
+    ]
+  },
+  {
+    "name": "Camila Guardian Deity [Hybrid Instinct]",
+    "image": "assets/images/[Hybrid Instinct] Guardian Deity Camila.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Camila"
+    ]
+  },
+  {
+    "name": "Cha Hae-In The Dancer [S-Rank Hunter]",
+    "image": "assets/images/[S-Rank Hunter] The Dancer Cha Hae-In.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Cha Hae-In"
+    ]
+  },
+  {
+    "name": "Chandler Magician [Pacifier Fiend]",
+    "image": "assets/images/[Pacifier Fiend] Magician Chandler.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Chandler"
+    ]
+  },
+  {
+    "name": "Highest-Ranking Demon Chandler [Origin Fragment]",
+    "image": "assets/images/[Origin Fragment] Highest-Ranking Demon Chandler.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Chandler"
+    ]
+  },
+  {
+    "name": "Chandler Mage [Ancient Demon]",
+    "image": "assets/images/[Ancient Demon] Mage Chandler.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Chandler"
+    ]
+  },
+  {
+    "name": "Cocytus [Guardian of the Glacier]",
+    "image": "assets/images/[Guardian of the Glacier] Cocytus.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Cocytus"
+    ]
+  },
+  {
+    "name": "Cusack Dual Swordsman [Napping Reaper]",
+    "image": "assets/images/[Napping Reaper] Dual Swordsman Cusack.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Cusack"
+    ]
+  },
+  {
+    "name": "Cusack Highest-Ranking Demon [Origin Fragment]",
+    "image": "assets/images/[Origin Fragment] Highest-Ranking Demon Cusack.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Cusack"
+    ]
+  },
+  {
+    "name": "Darkness Knight [Crusader]",
+    "image": "assets/images/[Crusader] Knight Darkness.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Darkness"
+    ]
+  },
+  {
+    "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
+    "image": "assets/images/[The Pleiades of the Azure Sky] Holy Knight Deathpierce.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Deathpierce"
+    ]
+  },
+  {
+    "name": "Demiurge [Creator of the Blazing Inferno]",
+    "image": "assets/images/[Creator of the Blazing Inferno] Demiurge.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Demiurge"
+    ]
+  },
+  {
+    "name": "Demon King Tyrant [The Ruler]",
+    "image": "assets/images/[The Ruler] Tyrant Demon King.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Demon King"
+    ]
+  },
+  {
+    "name": "Demon King Oppressor [Incomplete Control]",
+    "image": "assets/images/[Incomplete Control] Oppressor Demon King.png",
+    "grade": "ur",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Demon King"
+    ]
+  },
+  {
+    "name": "Denzel Captain [The Pleiades of the Azure Sky]",
+    "image": "assets/images/[The Pleiades of the Azure Sky] Captain Denzel.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Denzel"
+    ]
+  },
+  {
+    "name": "Deldry Holy Knight [The Pleiades of the Azure Sky]",
+    "image": "assets/images/[The Pleiades of the Azure Sky] Holy Knight Deldry.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Deldry"
+    ]
+  },
+  {
+    "name": "Derieri of Purity [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Derieri of Purity.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Derieri"
+    ]
+  },
+  {
+    "name": "Derieri of Purity [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Derieri of Purity.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Derieri"
+    ]
+  },
+  {
+    "name": "Derieri of Purity [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] Derieri of Purity.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Derieri"
+    ]
+  },
+  {
+    "name": "Diane Holy Knight [The Serpent Sin of Envy]",
+    "image": "assets/images/[The Serpent Sin of Envy] Holy Knight Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Mercenary [Heart of the Land]",
+    "image": "assets/images/[Heart of the Land] Mercenary Diane.png",
+    "grade": "sr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Holy Knight [The Seven Deadly Sins]",
+    "image": "assets/images/[The Seven Deadly Sins] Holy Knight Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Fighter [Matrona]",
+    "image": "assets/images/[Matrona] Fighter Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Fighter [Kungfu Master]",
+    "image": "assets/images/[Kungfu Master] Fighter Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Fighter [Creation]",
+    "image": "assets/images/[Creation] Fighter Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Holy Knight [Eternal Promise]",
+    "image": "assets/images/[Eternal Promise] Holy Knight Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Blessing of Earth [Ragnarok]",
+    "image": "assets/images/[Ragnarok] Blessing of Earth Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Will of protection [Halloween]",
+    "image": "assets/images/[Halloween] Will of protection Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Queen [Waves of the Earth]",
+    "image": "assets/images/[Waves of the Earth] Queen Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Queen [Messenger of Love]",
+    "image": "assets/images/[Messenger of Love] Queen Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Blessing of the Earth [Beach Guardian]",
+    "image": "assets/images/[Beach Guardian] Blessing of the Earth Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Blessing of the Earth [Shining Wish]",
+    "image": "assets/images/[Shining Wish] Blessing of the Earth Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Diane Fighter [Bubbly Classmate]",
+    "image": "assets/images/[Bubbly Classmate] Fighter Diane.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Diane"
+    ]
+  },
+  {
+    "name": "Dogedo Holy Knight [The Pleiades of the Azure Sky]",
+    "image": "assets/images/[The Pleiades of the Azure Sky] Holy Knight Dogedo.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Dogedo"
+    ]
+  },
+  {
+    "name": "Dreyfus Grandmaster [Omen of Chaos]",
+    "image": "assets/images/[Omen of Chaos] Grandmaster Dreyfus.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Dreyfus"
+    ]
+  },
+  {
+    "name": "Dreyfus Grandmaster [Break]",
+    "image": "assets/images/[Break] Grandmaster Dreyfus.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Dreyfus"
+    ]
+  },
+  {
+    "name": "Drole of Patience [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Drole of Patience.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Drole"
+    ]
+  },
+  {
+    "name": "Drole of Patience [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Drole of Patience.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Drole"
+    ]
+  },
+  {
+    "name": "Drole of Patience [Great Warrior]",
+    "image": "assets/images/[Great Warrior] Drole of Patience.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Drole"
+    ]
+  },
+  {
+    "name": "Eastin Noblesse [Ruler of Stormy Seas]",
+    "image": "assets/images/[Ruler of Stormy Seas] Noblesse Eastin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Eastin Noblesse [Sunny Vacation]",
+    "image": "assets/images/[Sunny Vacation] Noblesse Eastin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Eastin Noblesse [Tuner of Blue Sea]",
+    "image": "assets/images/[Tuner of Blue Sea] Noblesse Eastin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Eastin of Authority [Empress of the Sea]",
+    "image": "assets/images/[Empress of the Sea] Eastin of Authority.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Eastin of Authority [Empress of the Sea]",
+    "image": "assets/images/[Spooky Party] Eastin of Authority.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Eastin of Authority [Deep Sea Explorer]",
+    "image": "assets/images/[Deep Sea Explorer] Eastin of Authority.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Eastin"
+    ]
+  },
+  {
+    "name": "Echidna Witch of Greed [ReZero]",
+    "image": "assets/images/[ReZero] Witch of Greed Echidna.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Echidna"
+    ]
+  },
+  {
+    "name": "Elaine Guardian [Fairy King's Forest]",
+    "image": "assets/images/[Fairy King's Forest] Guardian Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Elaine Golden Wings [Fairy of Blessings]",
+    "image": "assets/images/[Fairy of Blessings] Golden Wings Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Elaine Guardian [Halloween]",
+    "image": "assets/images/[Halloween] Guardian Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Elaine Guardian [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] Guardian Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Elaine Golden Wings [Scent of Spring]",
+    "image": "assets/images/[Scent of Spring] Golden Wings Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Elaine [Fulfilled Promise]",
+    "image": "assets/images/[Fulfilled Promise] Elaine.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Elaine"
+    ]
+  },
+  {
+    "name": "Eleven [Stranger Things]",
+    "image": "assets/images/[Stranger Things] Eleven.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Eleven"
+    ]
+  },
+  {
+    "name": "Elizabeth & Meliodas [Light of the Holy War]",
+    "image": "assets/images/[Light of the Holy War] Elizabeth & Meliodas.png",
+    "grade": "ur",
+    "races": [
+      "goddess",
+      "demon"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Elizabeth",
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Elizabeth Princess [Liones]",
+    "image": "assets/images/[Liones] Princess Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Princess [A New Adventure]",
+    "image": "assets/images/[A New Adventure] Princess Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Princess [New Legend]",
+    "image": "assets/images/[New Legend] Princess Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Hostess [Boar Hat Tavern]",
+    "image": "assets/images/[Boar Hat Tavern] Hostess Elizabeth.png",
+    "grade": "sr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Goddess [Holy Warrior]",
+    "image": "assets/images/[Holy Warrior] Goddess Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Goddess [Spring Fantasy]",
+    "image": "assets/images/[Spring Fantasy] Goddess Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth of Reincarnation [Restored Memory]",
+    "image": "assets/images/[Restored Memory] Elizabeth of Reincarnation.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Queen [Brilliant Protection]",
+    "image": "assets/images/[Brilliant Protection] Queen Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth Queen [Gift of the Snow]",
+    "image": "assets/images/[Gift of the Snow] Queen Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elizabeth"
+    ]
+  },
+  {
+    "name": "Elizabeth & Hawk [Reverse]",
+    "image": "assets/images/[Reverse] Hawk & Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Elizabeth",
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Elizabeth & Hawk [Mascot]",
+    "image": "assets/images/[Mascot] Hawk & Elizabeth.png",
+    "grade": "sr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Elizabeth",
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Elizabeth & Hawk [Mobile Tavern]",
+    "image": "assets/images/[Mobile Tavern] Hawk & Elizabeth.png",
+    "grade": "sr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elizabeth",
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Elizabeth & Hawk [Summer Mood]",
+    "image": "assets/images/[Summer Mood] Guardian Hawk & Elizabeth.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Elizabeth",
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Ellatte Celestial [Wings of the Sky]",
+    "image": "assets/images/[Wings of the Sky] Celestial Ellatte.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ellatte"
+    ]
+  },
+  {
+    "name": "Ellatte Celestial [Guardian of Sky Castle]",
+    "image": "assets/images/[Guardian of Sky Castle] Celestial Ellatte.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ellatte"
+    ]
+  },
+  {
+    "name": "Ellatte Celestial [Pure Justice]",
+    "image": "assets/images/[Pure Justice] Celestial Ellatte.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ellatte"
+    ]
+  },
+  {
+    "name": "Emilia Ruler Candidate [ReZero]",
+    "image": "assets/images/[ReZero] Ruler Candidate Emilia.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Emilia"
+    ]
+  },
+  {
+    "name": "Eren Yeager [Cadet Corps]",
+    "image": "assets/images/[Cadet Corps] Eren Yeager.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Eren Yeager"
+    ]
+  },
+  {
+    "name": "Eren Yeager [Titan Form]",
+    "image": "assets/images/[Titan Form] Eren Yeager.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Eren Yeager"
+    ]
+  },
+  {
+    "name": "Eren Yeager [Firm Belief]",
+    "image": "assets/images/[Firm Belief] Eren Jaeger.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Eren Yeager"
+    ]
+  },
+  {
+    "name": "Eris Boreas [Mad Dog]",
+    "image": "assets/images/[Mad Dog] Eris Boreas.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Eris Boreas"
+    ]
+  },
+  {
+    "name": "Escanor The Indomitable [Eternal Sun]",
+    "image": "assets/images/[Eternal Sun] Escanor The Indomitable.png",
+    "grade": "ur",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Escanor Ultimate [Flame of Life]",
+    "image": "assets/images/[Flame of Life] Ultimate Escanor.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Escanor The One [Invincible Avatar]",
+    "image": "assets/images/[Invincible Avatar] Escanor The One.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Escanor Holy Knight [Sunshine]",
+    "image": "assets/images/[Sunshine] Holy Knight Escanor.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Escanor Holy Knight [The Lion Sin of Pride]",
+    "image": "assets/images/[The Lion Sin of Pride] Holy Knight Escanor.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Estarossa of Love [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Estarossa of Love.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Estarossa"
+    ]
+  },
+  {
+    "name": "Estarossa of Love [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Estarossa of Love.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Estarossa"
+    ]
+  },
+  {
+    "name": "Estarossa Berserk [Twisted Darkness]",
+    "image": "assets/images/[Twisted Darkness] Berserk Estarossa.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Estarossa"
+    ]
+  },
+  {
+    "name": "Estarossa Berserk [Holy War Nightmare]",
+    "image": "assets/images/[Holy War Nightmare] Berserk Estarossa.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Estarossa"
+    ]
+  },
+  {
+    "name": "Filo [Queen's Successor]",
+    "image": "assets/images/[Queen's Successor] Filo.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Filo"
+    ]
+  },
+  {
+    "name": "Fitoria [Filolial Queen]",
+    "image": "assets/images/[Filolial Queen] Fitoria.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Fitoria"
+    ]
+  },
+  {
+    "name": "Fraudrin of Selflessness [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Fraudrin of Selflessness.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Fraudrin"
+    ]
+  },
+  {
+    "name": "Fraudrin of Selflessness [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Fraudrin of Selflessness.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Fraudrin"
+    ]
+  },
+  {
+    "name": "Freesia Holy Knight [Weird Fangs]",
+    "image": "assets/images/[Weird Fangs] Holy Knight Freesia.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Freesia"
+    ]
+  },
+  {
+    "name": "Freya Goddess of Beauty [Enchanted Queen]",
+    "image": "assets/images/[Enchanted Queen] Goddess of Beauty Freya.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Freya"
+    ]
+  },
+  {
+    "name": "Freya Goddess of Beauty [Summer Illusion]",
+    "image": "assets/images/[Summer Illusion] Goddess of Beauty Freyja.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Freya"
+    ]
+  },
+  {
+    "name": "Freyr Sun God [Master of Light]",
+    "image": "assets/images/[Master of Light] Sun God Freyr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Freyr"
+    ]
+  },
+  {
+    "name": "Freyr Sun God [Prince of the Vanir Gods]",
+    "image": "assets/images/[Prince of the Vanir Gods] Sun God Freyr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Freyr"
+    ]
+  },
+  {
+    "name": "Galland of Truth [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Galland of Truth.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Galland"
+    ]
+  },
+  {
+    "name": "Galland of Truth [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Galland of Truth.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Galland"
+    ]
+  },
+  {
+    "name": "Gamma Narberal [Pleiades]",
+    "image": "assets/images/[Pleiades] Narberal Gamma.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Gamma"
+    ]
+  },
+  {
+    "name": "Gelda Vampire [Undying Love]",
+    "image": "assets/images/[Undying Love] Vampire Gelda.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gelda"
+    ]
+  },
+  {
+    "name": "Gelda Promise Keeper [Passionate Summer]",
+    "image": "assets/images/[Passionate Summer] Promise Keeper Gelda.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gelda"
+    ]
+  },
+  {
+    "name": "Gerharde Aide [Three Millennia of Memories]",
+    "image": "assets/images/[Three Millennia of Memories] Aide Gerharde.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gerharde"
+    ]
+  },
+  {
+    "name": "Ghislaine Dedoldia [Sword King]",
+    "image": "assets/images/[Sword King] Ghislaine Dedoldia.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ghislaine Dedoldia"
+    ]
+  },
+  {
+    "name": "Gilthunder Guardian [Thunderbolt]",
+    "image": "assets/images/[Thunderbolt] Guardian Gilthunder.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gilthunder"
+    ]
+  },
+  {
+    "name": "Gilthunder Holy Knight [Chivalrous]",
+    "image": "assets/images/[Chivalrous] Holy Knight Gilthunder.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gilthunder"
+    ]
+  },
+  {
+    "name": "Gilthunder Holy Knight [Thunderbolt]",
+    "image": "assets/images/[Star of the Kingdom] Holy Knight Gilthunder.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Gilthunder"
+    ]
+  },
+  {
+    "name": "Glass [Vassal Wielder]",
+    "image": "assets/images/[Vassal Wielder] Glass.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Glass"
+    ]
+  },
+  {
+    "name": "Gloxinia of Repose [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Gloxinia of Repose.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gloxinia"
+    ]
+  },
+  {
+    "name": "Gloxinia of Repose [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Gloxinia of Repose.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gloxinia"
+    ]
+  },
+  {
+    "name": "Golgius [Weird Fangs]",
+    "image": "assets/images/[Weird Fangs] Golgius.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Golgius"
+    ]
+  },
+  {
+    "name": "Gowther Holy Knigh [Liones's Hero]",
+    "image": "assets/images/[Liones's Hero] Holy Knight Gowther.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Gowther Young Villager [Wanted Man]",
+    "image": "assets/images/[Wanted Man] Young Villager Gowther.png",
+    "grade": "sr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Gowther Holy Knight [The Goat Sin of Lust]",
+    "image": "assets/images/[The Goat Sin of Lust] Holy Knight Gowther.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Gowther Holy Knight [Halloween]",
+    "image": "assets/images/[Halloween] Holy Knight Gowther.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Gowther Hijack [Complications]",
+    "image": "assets/images/[Complications] Hijack Gowther.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Gowther [Wandering Knight]",
+    "image": "assets/images/[Wandering Knight] Gowther.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "Griamore Guardian [Iron-wall Knight]",
+    "image": "assets/images/[Iron-wall Knight] Guardian Griamore.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Griamore"
+    ]
+  },
+  {
+    "name": "Griamore Ranger [Adventurer]",
+    "image": "assets/images/[Adventurer] Ranger Griamore.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Griamore"
+    ]
+  },
+  {
+    "name": "Griamore Ranger [Champion]",
+    "image": "assets/images/[Champion] Ranger Griamore.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Griamore"
+    ]
+  },
+  {
+    "name": "Griamore Guardian [Knight of the Holy War]",
+    "image": "assets/images/[Knight of the Holy War] Guardian Griamore.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Griamore"
+    ]
+  },
+  {
+    "name": "Guila Guardian [Explosion]",
+    "image": "assets/images/[Explosion] Guardian Guila.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Guila"
+    ]
+  },
+  {
+    "name": "Guila Guardian [Hallowen]",
+    "image": "assets/images/[Halloween] Guardian Guila.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Guila"
+    ]
+  },
+  {
+    "name": "Guila Holy knight [Rapier]",
+    "image": "assets/images/[Rapier] Holy Knight Guila.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Guila"
+    ]
+  },
+  {
+    "name": "Gustav Holy Knight [Knight of Ice]",
+    "image": "assets/images/[Knight of Ice] Holy Knight Gustav.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Gustav"
+    ]
+  },
+  {
+    "name": "Hawk Captain [Knighthood of Scraps Disposal]",
+    "image": "assets/images/[Knighthood of Scraps Disposal] Captain Hawk.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Hawk Captain [New Pub]",
+    "image": "assets/images/[New Pub] Captain Hawk.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Hawk"
+    ]
+  },
+  {
+    "name": "Hawk & Oslo [Knighthood of Scraps Disposal]",
+    "image": "assets/images/[Knighthood of Scraps Disposal] Oslo & Hawk.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Hawk",
+      "Oslo"
+    ]
+  },
+  {
+    "name": "Hawk & Oslo [Fun Party]",
+    "image": "assets/images/[Fun Party] Oslo & Hawk.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Hawk",
+      "Oslo"
+    ]
+  },
+  {
+    "name": "Hawk & Oslo [Maritime Troublemakers]",
+    "image": "assets/images/[Maritime Troublemakers] Oslo & Hawk.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hawk",
+      "Oslo"
+    ]
+  },
+  {
+    "name": "Hel Queen [Shepherd of Souls]",
+    "image": "assets/images/[Shepherd of Souls] Queen Hel.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Hel"
+    ]
+  },
+  {
+    "name": "Hel Repose of Soul [Principled Perfect]",
+    "image": "assets/images/[Principled Perfect] Repose of Soul Hel.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hel"
+    ]
+  },
+  {
+    "name": "Helbram Fairy [Forest Guardian]",
+    "image": "assets/images/[Forest Guardian] Fairy Helbram.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Helbram"
+    ]
+  },
+  {
+    "name": "Helbram [Reincarnation of Revenge]",
+    "image": "assets/images/[Reincarnation of Revenge] Helbram.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Helbram"
+    ]
+  },
+  {
+    "name": "Helbram Fairy [Royalty]",
+    "image": "assets/images/[Royalty] Fairy Helbram.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Helbram"
+    ]
+  },
+  {
+    "name": "Hendrickson Grandmaster [Melt]",
+    "image": "assets/images/[Melt] Grandmaster Hendrickson.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Hendrickson"
+    ]
+  },
+  {
+    "name": "Hendrickson Druid [Omen of Chaos]",
+    "image": "assets/images/[Omen of Chaos] Druid Hendrickson.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hendrickson"
+    ]
+  },
+  {
+    "name": "Hendrickson Demon [Ashen Desire]",
+    "image": "assets/images/[Ashen Desire] Demon Hendrickson.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hendrickson"
+    ]
+  },
+  {
+    "name": "Howzer Holy Knight [Tempest]",
+    "image": "assets/images/[Tempest] Holy Knight Howzer.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Howzer"
+    ]
+  },
+  {
+    "name": "Howzer Ranger [Star of the Kingdom]",
+    "image": "assets/images/[Star of the Kingdom] Ranger Howzer.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Howzer"
+    ]
+  },
+  {
+    "name": "Howzer Ranger [Liones Royalty]",
+    "image": "assets/images/[Liones Royalty] Ranger Howzer.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Howzer"
+    ]
+  },
+  {
+    "name": "Howzer Holy Knight [Holy War Knight]",
+    "image": "assets/images/[Holy War Knight] Holy Knight Howzer.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Howzer"
+    ]
+  },
+  {
+    "name": "Hugo Holy Knight [Roars of Dawn]",
+    "image": "assets/images/[Roars of Dawn] Holy Knight Hugo.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Hugo"
+    ]
+  },
+  {
+    "name": "Jenna Druid [Guardian of Istal]",
+    "image": "assets/images/[Guardian of Istal] Druid Jenna.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jenna"
+    ]
+  },
+  {
+    "name": "Jenna Druid [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] Druid Jenna.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Jenna"
+    ]
+  },
+  {
+    "name": "Jenna Lead Vocalist [MAVE]",
+    "image": "assets/images/[MAVE] Lead Vocalist Jenna.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Jenna"
+    ]
+  },
+  {
+    "name": "Guardian Jericho [Knight of Frost]",
+    "image": "assets/images/[Knight of Frost] Guardian_Jericho.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jericho"
+    ]
+  },
+  {
+    "name": "Jericho Guardian [Godspeed Knight]",
+    "image": "assets/images/[Godspeed Knight] Guardian Jericho.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Jericho"
+    ]
+  },
+  {
+    "name": "Jericho Guardian [New Legend]",
+    "image": "assets/images/[New Legend] Guardian Jericho.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Jericho"
+    ]
+  },
+  {
+    "name": "Jericho Holy Knight [Adventurer]",
+    "image": "assets/images/[Adventurer] Holy Knight Jericho.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jericho"
+    ]
+  },
+  {
+    "name": "Jericho Holy Knight [New Generation]",
+    "image": "assets/images/[New Generation] Holy Knight Jericho.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Jericho"
+    ]
+  },
+  {
+    "name": "Jillian Holy Knight [Roars of Dawn]",
+    "image": "assets/images/[Roars of Dawn] Holy Knight Jillian.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Jillian"
+    ]
+  },
+  {
+    "name": "Jim Hoppers [Stranger Things]",
+    "image": "assets/images/[Stranger Things] Jim Hoppers.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jim Hoppers"
+    ]
+  },
+  {
+    "name": "Jormungandr The World Serpent [Snake Calmer]",
+    "image": "assets/images/[Snake Calmer] The World Serpent Jormungandr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Jormungandr"
+    ]
+  },
+  {
+    "name": "Jormungandr World Serpent [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] World Serpent Jormungandr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jormungandr"
+    ]
+  },
+  {
+    "name": "Jude Holy Knight [Weird Fangs]",
+    "image": "assets/images/[Weird Fangs] Holy Knight Jude.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jude"
+    ]
+  },
+  {
+    "name": "King Fart [Disaster Old]",
+    "image": "assets/images/[Disaster Old] Fart King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King & Diane [Rulers of the New Era]",
+    "image": "assets/images/[Rulers of the New Era] King & Diane.png",
+    "grade": "ur",
+    "races": [
+      "fairy",
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "King",
+      "Diane"
+    ]
+  },
+  {
+    "name": "King the Fairy King [The Grizzly Sin of Sloth]",
+    "image": "assets/images/[The Grizzly Sin of Sloth] King the Fairy King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King the Fairy King [Forest Guardian]",
+    "image": "assets/images/[Forest Guardian] King the Fairy King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King the Fairy King [Harlequin]",
+    "image": "assets/images/[Harlequin] King the Fairy King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King Old Fart [Protector of Dolls]",
+    "image": "assets/images/[Protector of Dolls] Old Fart King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King Old Fart [The Seven Deadly Sins]",
+    "image": "assets/images/[The Seven Deadly Sins] Old Fart King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King Small Winged [Sweet Jelly]",
+    "image": "assets/images/[Sweet Jelly] Small Winged King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King New Wings [Signs of Maturity]",
+    "image": "assets/images/[Signs of Maturity] New Wings King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "Harlequin Fairy King [Protector King]",
+    "image": "assets/images/[Protector King] Harlequin Fairy King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "Fairy King Harlequin [Symbol of Unity]",
+    "image": "assets/images/[Symbol of Unity] Fairy King Harlequin.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "King Tree Guardian [Friendly Classmate]",
+    "image": "assets/images/[Friendly Classmate] Tree Guardian King.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "Kazayama Kizuna [Hunting Hero]",
+    "image": "assets/images/[Hunting Hero] Kazayama Kizuna.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Kazayama Kizuna"
+    ]
+  },
+  {
+    "name": "Kyo Kusanagi [KOF '98]",
+    "image": "assets/images/[KOF '98] Kusanagi Kyo.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Kyo Kusanagi"
+    ]
+  },
+  {
+    "name": "Iori Yagami [KOF '98]",
+    "image": "assets/images/[KOF '98] Iori Yagami.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Iori Yagami"
+    ]
+  },
+  {
+    "name": "Jue Viole Grace [Slayer Candidate]",
+    "image": "assets/images/[Slayer Candidate] Jue Viole Grace.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Jue Viole Grace"
+    ]
+  },
+  {
+    "name": "Lancelot Young Knight [Hero's Bloodline]",
+    "image": "assets/images/[Hero's Bloodline] Young Knight Lancelot.png",
+    "grade": "ur",
+    "races": [
+      "human",
+      "fairy"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Lancelot"
+    ]
+  },
+  {
+    "name": "Levi [Greatest Soldier]",
+    "image": "assets/images/[Greatest Soldier] Levi.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Levi"
+    ]
+  },
+  {
+    "name": "Levi [Indomitable Feather]",
+    "image": "assets/images/[Indomitable Feather] Levi.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Levi"
+    ]
+  },
+  {
+    "name": "Lillia Mage [Doombringer]",
+    "image": "assets/images/[Doombringer] Mage Lillia.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Lillia"
+    ]
+  },
+  {
+    "name": "Lillia Mage [Mastermind]",
+    "image": "assets/images/[Mastermind] Mage Lillia.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Lillia"
+    ]
+  },
+  {
+    "name": "Lillia of Desire [Advent of Destruction]",
+    "image": "assets/images/[Advent of Destruction] Lillia of Desire.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Lillia"
+    ]
+  },
+  {
+    "name": "Lillia of Desire [Illusion of Holy Nigth]",
+    "image": "assets/images/[Illusion of Holy Night] Lillia of Desire.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Lillia"
+    ]
+  },
+  {
+    "name": "Liz Knight of Danafor [Memory Fragment]",
+    "image": "assets/images/[Memory Fragment] Knight of Danafor Liz.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Liz"
+    ]
+  },
+  {
+    "name": "Liz Knight of Danafor [Starry Night's Illusion]",
+    "image": "assets/images/[Starry Night's Illusion] Knight of Danafor Liz.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Liz"
+    ]
+  },
+  {
+    "name": "Liz Knight of Danafor [Gift of Happiness]",
+    "image": "assets/images/[Gift of Happiness] Knight of Danafor Liz.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Liz"
+    ]
+  },
+  {
+    "name": "Loki God of Mischief [Banished Chaos]",
+    "image": "assets/images/[Banished Chaos] God of Mischief Loki.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Loki"
+    ]
+  },
+  {
+    "name": "Ludociel of Flash [The Four Archangels]",
+    "image": "assets/images/[The Four Archangels] Ludociel of Flash.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ludociel"
+    ]
+  },
+  {
+    "name": "Ludociel of Flash [Divine Proxy]",
+    "image": "assets/images/[Divine Proxy] Ludociel of Flash.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ludociel"
+    ]
+  },
+  {
+    "name": "Ludociel Oath of Light [Advent of Flash]",
+    "image": "assets/images/[Advent of Flash] Oath of Light Ludociel.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Ludociel"
+    ]
+  },
+  {
+    "name": "Covenant of Light Ludociel [Summer Mirage]",
+    "image": "assets/images/[Summer Mirage] Covenant of Light Ludociel.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Ludociel"
+    ]
+  },
+  {
+    "name": "Mael of Sun [The Four Archangels]",
+    "image": "assets/images/[The Four Archangels] Mael of Sun.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Mael"
+    ]
+  },
+  {
+    "name": "Mael Angel of Despair [Blackened Wings]",
+    "image": "assets/images/[Blackened Wings] Angel of Despair Mael.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Mael"
+    ]
+  },
+  {
+    "name": "Mai Shiranui [KOF '98]",
+    "image": "assets/images/[KOF '98] Shiranui Mai.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Mai Shiranui"
+    ]
+  },
+  {
+    "name": "Marmas Holy Knight [Boom Boom Pow]",
+    "image": "assets/images/[Boom Boom Pow] Holy Knight Marmas.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Marmas"
+    ]
+  },
+  {
+    "name": "Matrona Mercenary [Fang of the Land]",
+    "image": "assets/images/[Fang of the Land] Mercenary Matrona.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Matrona"
+    ]
+  },
+  {
+    "name": "Matrona Mercenary [Halloween]",
+    "image": "assets/images/[Halloween] Mercenary Matrona.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Matrona"
+    ]
+  },
+  {
+    "name": "Matrona [A Vibrant Proud]",
+    "image": "assets/images/[A vibrant proud] Matrona.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Matrona"
+    ]
+  },
+  {
+    "name": "Megelda Valkyrie [Guide of Valhalla]",
+    "image": "assets/images/[Guide of Valhalla] Megerda Valkyrie.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Megelda"
+    ]
+  },
+  {
+    "name": "Megellda Valkyrie [Pride of Valhalla]",
+    "image": "assets/images/[Pride of Valhalla] Valkyrie Megellda.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Megelda"
+    ]
+  },
+  {
+    "name": "Megumin Crimson Demon Girl [Arch Wizard]",
+    "image": "assets/images/[Arch Wizard] Crimson Demon Girl Megumin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Megumin"
+    ]
+  },
+  {
+    "name": "Melascula of Faith [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Melascula of Faith.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Melascula"
+    ]
+  },
+  {
+    "name": "Melascula of Faith [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Melascula of Faith.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Melascula"
+    ]
+  },
+  {
+    "name": "Melascula of Faith [Bitter & Sweet]",
+    "image": "assets/images/[Bitter & Sweet] Melascula of Faith.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Melascula"
+    ]
+  },
+  {
+    "name": "Meliodas Berserk [Cruel Nightmare]",
+    "image": "assets/images/[Cruel Nightmare] Berserk Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Berserk [Assault Mode]",
+    "image": "assets/images/[Assault Mode] Berserk Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Captain [The Seven Deadly Sins]",
+    "image": "assets/images/[The Seven Deadly Sins] Captain Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Master [Boar Hat Tavern]",
+    "image": "assets/images/[Boar Hat Tavern] Master Meliodas.png",
+    "grade": "sr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Captain [Halloween]",
+    "image": "assets/images/[Halloween] Captain Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Demon [The Dragon Sin of Wrath]",
+    "image": "assets/images/[The Dragon Sin of Wrath] Demon Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Demon [Knight of Wrath]",
+    "image": "assets/images/[Knight of Wrath] Demon Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Demon [New Legend]",
+    "image": "assets/images/[New Legend] Demon Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Lostvayne [Ragnarok]",
+    "image": "assets/images/[Ragnarok] Meliodas Lostvayne.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Lostvayne [Virtual Body Doubles]",
+    "image": "assets/images/[Virtual Body Doubles] Lostvayne Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Traitor [Holy Warrior]",
+    "image": "assets/images/[Holy Warrior] Traitor Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Purgatory [Cursed Shackles]",
+    "image": "assets/images/[Cursed Shackles] Purgatory Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Captain [Tomorrow's Champion]",
+    "image": "assets/images/[Tomorrow's Champion] Captain Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Meliodas Demon King [End of an Era]",
+    "image": "assets/images/[End of an Era] Demon King Meliodas.png",
+    "grade": "ur",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Merlin Great Mage [The Boar Sin of Gluttony]",
+    "image": "assets/images/[The Boar Sin of Gluttony] Great Mage Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Daughter of Belialuin [Blessings of Gods]",
+    "image": "assets/images/[Blessings of Gods] Daughter of Belialuin Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Great Mage [Infinity]",
+    "image": "assets/images/[Infinity] Great Mage Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Great Mage [Collector]",
+    "image": "assets/images/[Collector] Great Mage Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Truthseeker [Seaside Lady]",
+    "image": "assets/images/[Seaside Lady] Truthseeker Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Truthseeker [Ragnarok]",
+    "image": "assets/images/[Ragnarok] Merlin Truth Seeker.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Infinity Mage [The Last Sage]",
+    "image": "assets/images/[The Last Sage] Infinity Mage Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Truth Seeker [Witch of the Snow]",
+    "image": "assets/images/[Witch of the Snow] Truth Seeker Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin Mage of Infinity [Ocean Seeker]",
+    "image": "assets/images/[Ocean Seeker] Mage of Infinity Merlin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  },
+  {
+    "name": "Merlin & Escanor [Dusk's Oath]",
+    "image": "assets/images/[Dusk's Oath] Merlin & Escanor.png",
+    "grade": "ur",
+    "races": [
+      "unknown",
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Merlin",
+      "Escanor"
+    ]
+  },
+  {
+    "name": "Mikasa Ackermann [Greatest Soldier]",
+    "image": "assets/images/[Greatest Soldier] Mikasa Ackermann.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Mikasa Ackermann"
+    ]
+  },
+  {
+    "name": "Mike Wheelers [Stranger Things]",
+    "image": "assets/images/[Stranger Things] Mike Wheelers.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Mike Wheelers"
+    ]
+  },
+  {
+    "name": "Milim Nava [Tyrant of Destruction]",
+    "image": "assets/images/[Tyrant of Destruction] Milim Nava.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Milim Nava"
+    ]
+  },
+  {
+    "name": "Milim Nava [Proven Power]",
+    "image": "assets/images/[Proven Power] Milim Nava.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Milim Nava"
+    ]
+  },
+  {
+    "name": "Mono Human Weapon [Shepherd of Death]",
+    "image": "assets/images/[Shepherd of Death] Human Weapon Mono.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Mono"
+    ]
+  },
+  {
+    "name": "Mono Human Weapon [Advent of Destruction]",
+    "image": "assets/images/[Advent of Destruction] Human Weapon Mono.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Mono"
+    ]
+  },
+  {
+    "name": "Mono Iron Blood [Weapon Master]",
+    "image": "assets/images/[Weapon Master] Iron Blood Mono.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Mono"
+    ]
+  },
+  {
+    "name": "Mono Iron Blood [Full Moon Shadow]",
+    "image": "assets/images/[Full Moon Shadow] Iron Blood Mono.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Mono"
+    ]
+  },
+  {
+    "name": "Mono of Blood and Iron [Blade Unleashed]",
+    "image": "assets/images/[Blade Unleashed] Mono of Blood and Iron.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Mono"
+    ]
+  },
+  {
+    "name": "Monspeet of Reticence [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Monspeet of Reticence.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Monspeet"
+    ]
+  },
+  {
+    "name": "Monspeet of Reticence [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Monspeet of Reticence.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Monspeet"
+    ]
+  },
+  {
+    "name": "Nanashi Foreign Swordsman [Swift Sword]",
+    "image": "assets/images/[Swift Sword] Foreign Swordsman Nanashi.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Nanashi"
+    ]
+  },
+  {
+    "name": "Naofumi Iwatani [Shield Hero]",
+    "image": "assets/images/[Shield Hero] Iwatani Naofumi.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Naofumi Iwatani"
+    ]
+  },
+  {
+    "name": "Nasiens Herbalist [Venom Mixing]",
+    "image": "assets/images/[Venom Mixing] Herbalist Nasiens.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Nasiens"
+    ]
+  },
+  {
+    "name": "Pellegarde Knight Black [Burning Spirit]",
+    "image": "assets/images/[Burning Spirit] Black Knight Pellegarde.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Pellegarde"
+    ]
+  },
+  {
+    "name": "Percival Boy of Hope [A New Adventure]",
+    "image": "assets/images/[A New Adventure] Boy of Hope Percival.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Percival"
+    ]
+  },
+  {
+    "name": "Percival Little Hero [Unknown Power]",
+    "image": "assets/images/[Unknown Power] Little Hero Percival.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Percival"
+    ]
+  },
+  {
+    "name": "Raphtalia [Naofumi's Sword]",
+    "image": "assets/images/[Naofumi's Sword] Raphtalia.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Raphtalia"
+    ]
+  },
+  {
+    "name": "Ram Twin Maid Sister [ReZero]",
+    "image": "assets/images/[ReZero] Twin Maid Sister Ram.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ram"
+    ]
+  },
+  {
+    "name": "Reinhard Sword Saint [ReZero]",
+    "image": "assets/images/[ReZero] Sword Saint Reinhard.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Reinhard"
+    ]
+  },
+  {
+    "name": "Rem Twin Maid Sister [ReZero]",
+    "image": "assets/images/[ReZero] Twin Maid Sister Rem.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Rem"
+    ]
+  },
+  {
+    "name": "Rimuru Tempest [Octagram]",
+    "image": "assets/images/[Octagram] Rimuru Tempest.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Rimuru"
+    ]
+  },
+  {
+    "name": "Rimuru [Ruler of Monsters]",
+    "image": "assets/images/[Ruler of Monsters] Rimuru.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Rimuru"
+    ]
+  },
+  {
+    "name": "Rimuru [Slime]",
+    "image": "assets/images/[Slime] Rimuru.png",
+    "grade": "sr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Rimuru"
+    ]
+  },
+  {
+    "name": "Roxy Queen of Explosions [Halloween]",
+    "image": "assets/images/[Halloween] Queen of Explosions Roxy.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Roxy Queen of Explosions [Mad Destroyer]",
+    "image": "assets/images/[Mad Destroyer] Queen of Explosions Roxy.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Roxy Queen of Explosions [Midsummer Sun]",
+    "image": "assets/images/[Midsummer Sun] Queen of Explosions Roxy.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Roxy of Madness [Vengeful Saw Blade]",
+    "image": "assets/images/[Vengeful Saw Blade] Roxy of Madness.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Roxy of Madness [Winter Whirlwind]",
+    "image": "assets/images/[Winter Whirlwind] Roxy of Madness.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Roxy Migurdia [King-Class Water Mage]",
+    "image": "assets/images/[King-Class Water Mage] Roxy Migurdia.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Roxy"
+    ]
+  },
+  {
+    "name": "Rudeus Greyrat [Otherworldly Reincarnation]",
+    "image": "assets/images/[Otherworldly Reincarnation] Rudeus Greyrat.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Rudeus Greyrat"
+    ]
+  },
+  {
+    "name": "Rugal Omega [KOF '98]",
+    "image": "assets/images/[KOF '98] Omega Rugal.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Rugal Omega"
+    ]
+  },
+  {
+    "name": "Ruin Holy Knight [Weird Fangs]",
+    "image": "assets/images/[Weird Fangs] Holy Knight Ruin.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Ruin"
+    ]
+  },
+  {
+    "name": "Sabunak Nightmare [Abyssal Shadow]",
+    "image": "assets/images/[Abyssal Shadow] Nightmare Sabunak.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Sabunak"
+    ]
+  },
+  {
+    "name": "Salos Nightmare [Chains of Despair]",
+    "image": "assets/images/[Chains of Despair] Nightmare Salos.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Salos"
+    ]
+  },
+  {
+    "name": "Sariel of Tornado [The Four Archangels]",
+    "image": "assets/images/[The Four Archangels] Sariel of Tornado.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Sariel"
+    ]
+  },
+  {
+    "name": "Sariel Covenant of Light [Advent of Tornado]",
+    "image": "assets/images/[Advent of Tornado] Covenant of Light Sariel.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Sariel"
+    ]
+  },
+  {
+    "name": "Sariel Covenant of Light [Winds of Hope]",
+    "image": "assets/images/[Winds of Hope] Covenant of Light Sariel.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Sariel"
+    ]
+  },
+  {
+    "name": "Shadow Leader [The Eminence in Shadow]",
+    "image": "assets/images/[The Eminence in Shadow] Leader Shadow.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Shadow Leader"
+    ]
+  },
+  {
+    "name": "Shalltear Bloodfallen [Bloodie Valkyrie]",
+    "image": "assets/images/[Bloodie Valkyrie] Shalltear Bloodfallen.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Shalltear"
+    ]
+  },
+  {
+    "name": "Shin Gamer [Halloween]",
+    "image": "assets/images/[Halloween] Gamer Shin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Shin"
+    ]
+  },
+  {
+    "name": "Shin Gamer [Dungeon Raider]",
+    "image": "assets/images/[Dungeon Raider] Gamer Shin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Shin"
+    ]
+  },
+  {
+    "name": "Shin [The Star of the Guild's Expectations]",
+    "image": "assets/images/[The Star of the Guild's Expectations] Shin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Shin"
+    ]
+  },
+  {
+    "name": "Shinra Kusakabe [Hero of Flames]",
+    "image": "assets/images/[Hero of Flames] Shinra Kusakabe.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Shinra Kusakabe"
+    ]
+  },
+  {
+    "name": "Shion [Demon Lord's Secretary]",
+    "image": "assets/images/[Demon Lord's Secretary] Shion.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Shion"
+    ]
+  },
+  {
+    "name": "Sho Kusakabe [Frozen Time]",
+    "image": "assets/images/[Frozen Time] Sho Kusakabe.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Sho Kusakabe"
+    ]
+  },
+  {
+    "name": "Shuna [Oni]",
+    "image": "assets/images/[Oni] Shuna.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Shuna"
+    ]
+  },
+  {
+    "name": "Sigurd Prince Crowned [Owner of Gram]",
+    "image": "assets/images/[Owner of Gram] Sigurd Prince Crowned.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Sigurd"
+    ]
+  },
+  {
+    "name": "Sigurd Prince [Curse of Greed]",
+    "image": "assets/images/[Curse of Greed] Prince Sigurd.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Sigurd"
+    ]
+  },
+  {
+    "name": "Simon Holy Knight [Roars of Dawn]",
+    "image": "assets/images/[Roars of Dawn] Holy Knight Simon.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Simon"
+    ]
+  },
+  {
+    "name": "Skadi Titan [Hunter of Severe Cold]",
+    "image": "assets/images/[Hunter of Severe Cold] Titan Skadi.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Skadi"
+    ]
+  },
+  {
+    "name": "Skadi [The Hunter]",
+    "image": "assets/images/[The Hunter] Skadi.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Skadi"
+    ]
+  },
+  {
+    "name": "Skadi Giant [Frostbane Warrior]",
+    "image": "assets/images/[Frostbane Warrior] Giant Skadi.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Skadi"
+    ]
+  },
+  {
+    "name": "Skuld Goddess of Fate [Destiny Defier]",
+    "image": "assets/images/[Destiny Defier] Goddess of Fate Skuld.png",
+    "grade": "ssr",
+    "races": [
+      "giant"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Skuld"
+    ]
+  },
+  {
+    "name": "Slater Hunter [Overpower]",
+    "image": "assets/images/[Overpower] Hunter Slater.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Slater"
+    ]
+  },
+  {
+    "name": "Slater Captain [Roars of Dawn]",
+    "image": "assets/images/[Roars of Dawn] Captain Slater.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Slater"
+    ]
+  },
+  {
+    "name": "Slater Hunter [Halloween]",
+    "image": "assets/images/[Halloween] Hunter Slater.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Slater"
+    ]
+  },
+  {
+    "name": "Sung Jinwoo Monarch of Shadows [S-Rank Hunter]",
+    "image": "assets/images/[S-Rank Hunter] Monarch of Shadows Sung Jinwoo.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Sung Jinwoo"
+    ]
+  },
+  {
+    "name": "Taizoo Champion [Vaizel Fight Festival]",
+    "image": "assets/images/[Vaizel Fight Festival] Champion Taizoo.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Taizoo"
+    ]
+  },
+  {
+    "name": "Tamaki Kotatsu [Red Flame Nekomata]",
+    "image": "assets/images/[Red Flame Nekomata] Tamaki Kotatsu.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Tamaki Kotatsu"
+    ]
+  },
+  {
+    "name": "Tarmiel of Ocean [The Four Archangels]",
+    "image": "assets/images/[The Four Archangels] Tarmiel of Ocean.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Tarmiel"
+    ]
+  },
+  {
+    "name": "Tarmiel Covenant of Light [Advent of Ocean]",
+    "image": "assets/images/[Advent of Ocean] Covenant of Light Tarmiel.png",
+    "grade": "ssr",
+    "races": [
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Tarmiel"
+    ]
+  },
+  {
+    "name": "Terry Bogard [KOF '98]",
+    "image": "assets/images/[KOF '98] Bogard Terry.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Terry Bogard"
+    ]
+  },
+  {
+    "name": "Thonar Wanderer [Warrior of Justice]",
+    "image": "assets/images/[Warrior of Justice] Thonar Wanderer.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Thonar"
+    ]
+  },
+  {
+    "name": "Thonar Wanderer [Hidden Savior]",
+    "image": "assets/images/[Hidden Savior] Thonar Wanderer.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Thonar"
+    ]
+  },
+  {
+    "name": "Thor the God of Thunder [Hammer of Justice]",
+    "image": "assets/images/[Hammer of Justice] Thor the God of Thunder.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Thor"
+    ]
+  },
+  {
+    "name": "Tristan Prince [Future of Liones]",
+    "image": "assets/images/[Future of Liones] Prince Tristan.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Tristan"
+    ]
+  },
+  {
+    "name": "Tristan Prince [Holy Knight Aspirant]",
+    "image": "assets/images/[Holy Knight Aspirant] Prince Tristan.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Tristan"
+    ]
+  },
+  {
+    "name": "Tristan Knight of the Prophecy [Light of Liones]",
+    "image": "assets/images/[Light of Liones] Knight of the Prophecy Tristan.png",
+    "grade": "ur",
+    "races": [
+      "goddess",
+      "demon"
+    ],
+    "attributes": [
+      "light",
+      "darkness"
+    ],
+    "baseNames": [
+      "Tristan"
+    ]
+  },
+  {
+    "name": "Twigo Apprentice Holy Knight [Confirmation]",
+    "image": "assets/images/[Confirmation] Apprentice Holy Knight Twigo.png",
+    "grade": "r",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Twigo"
+    ]
+  },
+  {
+    "name": "Tyr God of War [Indomitable Will]",
+    "image": "assets/images/[Indomitable Will] God of War Tyr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Tyr"
+    ]
+  },
+  {
+    "name": "Tyr God of War [Flery Youth]",
+    "image": "assets/images/[Flery Youth] God of War Tyr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Tyr"
+    ]
+  },
+  {
+    "name": "Urek Mazino [Free Spirit]",
+    "image": "assets/images/[Free Spirit] Urek Mazino.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Urek Mazino"
+    ]
+  },
+  {
+    "name": "Valenti Weapon Researcher [Earthshaker]",
+    "image": "assets/images/[Earthshaker] Weapon Researcher Valenti.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Valenti Weapon Researcher [Mad Inventor]",
+    "image": "assets/images/[Mad Inventor] Weapon Researcher Valenti.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Valenti of Obsession [Magic Weapon MK-II]",
+    "image": "assets/images/[Magic Weapon MK-II] Valenti of Obsession.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Valenti Weapon Researcher [Sunny Vacation]",
+    "image": "assets/images/[Sunny Vacation] Weapon Researcher Valenti.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Valenti of Obsession [White Snow Present]",
+    "image": "assets/images/[White Snow Present] Valenti of Obsession.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Valenti [Steel Engineer]",
+    "image": "assets/images/[Steel Engineer] Valenti.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Valenti"
+    ]
+  },
+  {
+    "name": "Varghese Knight Retired [Veteran Warrior]",
+    "image": "assets/images/[Veteran Warrior] Retired Knight Varghese.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Varghese"
+    ]
+  },
+  {
+    "name": "Vivian Mage [Reincarnation of Obession]",
+    "image": "assets/images/[Reincarnation of Obession] Mage Vivian.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Vivian"
+    ]
+  },
+  {
+    "name": "Will Byers [Stranger Things]",
+    "image": "assets/images/[Stranger Things] Will Byers.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Will Byers"
+    ]
+  },
+  {
+    "name": "Weinheidt Holy Knight [Roars of Dawn]",
+    "image": "assets/images/[Roars of Dawn] Holy Knight Weinheidt.png",
+    "grade": "sr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Weinheidt"
+    ]
+  },
+  {
+    "name": "Yihwa Yeon [Red Flame Princess]",
+    "image": "assets/images/[Red Flame Princess] Yihwa Yeon.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Yihwa Yeon"
+    ]
+  },
+  {
+    "name": "Yuri Ha Zahard [Princess of Zahard]",
+    "image": "assets/images/[Princess of Zahard] Ha Yuri Zahard.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Yuri Ha Zahard"
+    ]
+  },
+  {
+    "name": "Zahard Data [Secret Floor]",
+    "image": "assets/images/[Secret Floor] Data Zahard.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Zahard Data"
+    ]
+  },
+  {
+    "name": "Zaneri Druid [Sweet Temptation]",
+    "image": "assets/images/[Sweet Temptation] Druid Zaneri.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Zaneri"
+    ]
+  },
+  {
+    "name": "Zaneri Druid [Holiday Diviner]",
+    "image": "assets/images/[Holiday Diviner] Druid Zaneri.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Zaneri"
+    ]
+  },
+  {
+    "name": "Zaratras Grandmaster [Reincarnation of Conviction]",
+    "image": "assets/images/[Reincarnation of Conviction] Grandmaster Zaratras.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Zaratras"
+    ]
+  },
+  {
+    "name": "Zeldris of Piety [Elite Demon]",
+    "image": "assets/images/[Elite Demon] Zeldris of Piety.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Zeldris"
+    ]
+  },
+  {
+    "name": "Zeldris of Piety [The Ten Commandments]",
+    "image": "assets/images/[The Ten Commandments] Zeldris of Piety.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Zeldris"
+    ]
+  },
+  {
+    "name": "Zeldris Executioner [Demon Kings Deputy]",
+    "image": "assets/images/[Demon Kings Deputy] Executioner Zeldris.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Zeldris"
+    ]
+  },
+  {
+    "name": "Zeldris Prince of Darkness [Ominus Nebula]",
+    "image": "assets/images/[Ominus Nebula] Prince of Darkness Zeldris.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Zeldris"
+    ]
+  },
+  {
+    "name": "Another Ban [A Twisted World]",
+    "image": "assets/images/[A Twisted World] Another Ban.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Another Ban"
+    ]
+  },
+  {
+    "name": "Another Meliodas [A Twisted World]",
+    "image": "assets/images/[A Twisted World] Another Meliodas.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Another Meliodas"
+    ]
+  },
+  {
+    "name": "Supreme God Odin [Almighty]",
+    "image": "assets/images/[Almighty] Supreme God Odin.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Odin"
+    ]
+  },
+  {
+    "name": "Mage Chandler [Archpriest of Despair]",
+    "image": "assets/images/[Archpriest of Despair] Mage Chandler.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Chandler"
+    ]
+  },
+  {
+    "name": "Wanderer Thonar [Battle-Hardened Mercenary]",
+    "image": "assets/images/[Battle-Hardened Mercenary] Wanderer Thonar.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Thonar"
+    ]
+  },
+  {
+    "name": "Youngest Princess Tioreh [Fairy King's Daughter]",
+    "image": "assets/images/[Fairy King's Daughter] Youngest Princess Tioreh.png",
+    "grade": "ssr",
+    "races": [
+      "fairy",
+      "giant"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Tioreh"
+    ]
+  },
+  {
+    "name": "Young Knight Lancelot [Free Wind]",
+    "image": "assets/images/[Free Wind] Young Knight Lancelot.png",
+    "grade": "ssr",
+    "races": [
+      "human",
+      "fairy"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Lancelot"
+    ]
+  },
+  {
+    "name": "Knight of the Sun Gawain [Gold-Colored Magic]",
+    "image": "assets/images/[Gold-Colored Magic] Knight of the Sun Gawain.png",
+    "grade": "ur",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Gawain"
+    ]
+  },
+  {
+    "name": "Hermit Gowther [Legendary Sinner]",
+    "image": "assets/images/[Legendary Sinner] Hermit Gowther.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Gowther"
+    ]
+  },
+  {
+    "name": "God of Observation Heimdallr [Omniscient Watcher]",
+    "image": "assets/images/[Omniscient Watcher] God of Observation Heimdallr.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Heimdallr"
+    ]
+  },
+  {
+    "name": "Goddess of Beauty Freyja [Queen of Abundance]",
+    "image": "assets/images/[Queen of Abundance] Goddess of Beauty Freyja.png",
+    "grade": "ssr",
+    "races": [
+      "unknown",
+      "goddess"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Freya"
+    ]
+  },
+  {
+    "name": "Freezing Witch Emilia [Re:ZERO]",
+    "image": "assets/images/[ReZero] Freezing Witch Emilia.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Emilia"
+    ]
+  },
+  {
+    "name": "Subaru & Beatrice [Re:ZERO]",
+    "image": "assets/images/[ReZero] Subaru & Beatrice.png",
+    "grade": "ssr",
+    "races": [
+      "human",
+      "fairy"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Subaru",
+      "Beatrice"
+    ]
+  },
+  {
+    "name": "Sun Princess Priscilla [Re:ZERO]",
+    "image": "assets/images/[ReZero] Sun Princess Priscilla.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Priscilla"
+    ]
+  },
+  {
+    "name": "Cleaner Enjin [Team Akuta]",
+    "image": "assets/images/[Team Akuta] Cleaner Enjin.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "light"
+    ],
+    "baseNames": [
+      "Enjin"
+    ]
+  },
+  {
+    "name": "Cleaner Riyo [Team Akuta]",
+    "image": "assets/images/[Team Akuta] Cleaner Riyo.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Riyo"
+    ]
+  },
+  {
+    "name": "Cleaner Rudo [Team Akuta]",
+    "image": "assets/images/[Team Akuta] Cleaner Rudo.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Rudo"
+    ]
+  },
+  {
+    "name": "Cleaner Zanka [Team Akuta]",
+    "image": "assets/images/[Team Akuta] Cleaner Zanka.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Zanka"
+    ]
+  },
+  {
+    "name": "Fairy King Harlequin [The Grizzly Sin of Sloth]",
+    "image": "assets/images/[The Grizzly Sin of Sloth] Fairy King Harlequin.png",
+    "grade": "ssr",
+    "races": [
+      "fairy"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "King"
+    ]
+  },
+  {
+    "name": "Nemesis Meliodas [The Seven Deadly Sins]",
+    "image": "assets/images/[The Seven Deadly Sins] Nemesis Meliodas.png",
+    "grade": "ur",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Meliodas"
+    ]
+  },
+  {
+    "name": "Merlin the Daughter of Belialuin [Wave Researcher]",
+    "image": "assets/images/[Wave Researcher] Merlin the Daughter of Belialuin.png",
+    "grade": "ssr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Merlin"
+    ]
+  }
+]
