@@ -29,10 +29,16 @@ function refresh() {
 
 // ---------- Acciones ----------
 
+// REGLA DEL COMODÍN: el comodín es un "reemplazo" posible, así que SÍ puede
+// ser otra versión de un personaje que ya está en el equipo (ej. otro Escanor).
+// Lo único que evitamos es que sea exactamente la misma carta.
+// Los 4 slots, en cambio, nunca repiten nombres base entre sí.
+
 // Botón "Select/Change squad": sortea los 4 slots a la vez.
-// No repite personajes entre sí ni con el comodín.
+// No repite personajes entre sí. Solo evita la carta exacta del comodín.
 function drawSquad() {
-  const drawn = drawMany(currentPool(), 4, [state.wildcard]);
+  const pool = currentPool().filter((c) => c.id !== state.wildcard?.id);
+  const drawn = drawMany(pool, 4);
 
   // Si salieron menos de 4, los slots restantes quedan vacíos (null)
   state.slots = [0, 1, 2, 3].map((i) => drawn[i] ?? null);
@@ -51,10 +57,13 @@ function drawSquad() {
 }
 
 // Botón "Select/Change character": sortea solo el comodín.
-// No repite personajes que ya estén en los 4 slots.
+// Puede compartir nombre base con un slot, pero no ser la misma carta.
 function drawWildcard() {
-  const pool = currentPool().filter((c) => c.id !== state.wildcard?.id);
-  const picked = drawOne(pool, state.slots);
+  const slotIds = state.slots.map((c) => c?.id);
+  const pool = currentPool().filter(
+    (c) => c.id !== state.wildcard?.id && !slotIds.includes(c.id)
+  );
+  const picked = drawOne(pool);
 
   state.wildcardDrawn = true;
   if (picked) {
@@ -67,13 +76,15 @@ function drawWildcard() {
 }
 
 // Botón de recarga de un slot: cambia solo ese slot.
-// No repite al comodín ni a los otros 3 slots.
+// No repite a los otros 3 slots. Solo evita la carta exacta del comodín.
 function rerollSlot(index) {
   const others = state.slots.filter((_, i) => i !== index);
   const current = state.slots[index];
 
-  const pool = currentPool().filter((c) => c.id !== current?.id);
-  const picked = drawOne(pool, [state.wildcard, ...others]);
+  const pool = currentPool().filter(
+    (c) => c.id !== current?.id && c.id !== state.wildcard?.id
+  );
+  const picked = drawOne(pool, others);
 
   if (picked) {
     state.slots[index] = picked;
