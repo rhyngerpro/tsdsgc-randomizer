@@ -5,6 +5,10 @@ import { FILTER_GROUPS } from './filters.js';
 
 const SLOT_COUNT = 4;
 
+// Títulos que se muestran arriba de algunos slots (0 = primer slot, 3 = último).
+// Cambia o agrega nombres aquí si quieres rotular otros slots.
+const SLOT_LABELS = { 1: 'Main', 3: 'Sub' };
+
 // ---------- Filtros ----------
 
 // Crea las casillas de cada grupo usando la lista de FILTER_GROUPS.
@@ -56,9 +60,16 @@ export function readFilters() {
 // ---------- Equipo ----------
 
 // Dibuja una tarjeta de personaje (o una vacía si character es null).
-function createCard(character) {
+function createCard(character, labelText = '') {
   const wrapper = document.createElement('div');
   wrapper.className = 'card-wrapper';
+
+  // Título arriba de la tarjeta (vacío si no tiene, pero ocupa su espacio
+  // para que todas las tarjetas queden alineadas)
+  const label = document.createElement('span');
+  label.className = 'slot-label';
+  label.textContent = labelText;
+  wrapper.append(label);
 
   const card = document.createElement('div');
   card.className = 'card' + (character ? '' : ' empty');
@@ -92,7 +103,7 @@ export function renderTeam(state, handlers) {
 
   // Casillas 1 a 4: el escuadrón
   for (let i = 0; i < SLOT_COUNT; i++) {
-    const cell = createCard(state.slots[i]);
+    const cell = createCard(state.slots[i], SLOT_LABELS[i]);
 
     // El botón de recarga solo aparece después de la primera tirada del escuadrón
     if (state.squadDrawn) {

@@ -2976,7 +2976,8 @@
       "hp"
     ],
     "baseNames": [
-      "Liz"
+      "Liz",
+      "Elizabeth"
     ]
   },
   {
@@ -2990,7 +2991,8 @@
       "strength"
     ],
     "baseNames": [
-      "Liz"
+      "Liz",
+      "Elizabeth"
     ]
   },
   {
@@ -3004,7 +3006,8 @@
       "speed"
     ],
     "baseNames": [
-      "Liz"
+      "Liz",
+      "Elizabeth"
     ]
   },
   {
@@ -3088,7 +3091,8 @@
       "light"
     ],
     "baseNames": [
-      "Mael"
+      "Mael",
+      "Estarossa"
     ]
   },
   {
@@ -3102,7 +3106,8 @@
       "darkness"
     ],
     "baseNames": [
-      "Mael"
+      "Mael",
+      "Estarossa"
     ]
   },
   {
@@ -4403,7 +4408,7 @@
       "human"
     ],
     "attributes": [
-      "speed"
+      "darkness"
     ],
     "baseNames": [
       "Sung Jinwoo"
@@ -5198,6 +5203,64 @@
     ],
     "baseNames": [
       "Merlin"
+    ]
+  },
+  {
+    "name": "Joker [The Phantoms]",
+    "image": "assets/images/[The Phantoms] Joker.png",
+    "grade": "ssr",
+    "races": [
+      "human",
+      "demon"
+    ],
+    "attributes": [
+      "darkness"
+    ],
+    "baseNames": [
+      "Joker"
+    ]
+  },
+  {
+    "name": "Mona [The Phantoms]",
+    "image": "assets/images/[The Phantoms] Mona.png",
+    "grade": "sr",
+    "races": [
+      "unknown"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Mona"
+    ]
+  },
+  {
+    "name": "Violet [The Phantoms]",
+    "image": "assets/images/[The Phantoms] Violet.png",
+    "grade": "ssr",
+    "races": [
+      "human",
+      "goddess"
+    ],
+    "attributes": [
+      "strength"
+    ],
+    "baseNames": [
+      "Violet"
+    ]
+  },
+  {
+    "name": "Queen [The Phantoms]",
+    "image": "assets/images/[The Phantoms] Queen.png",
+    "grade": "ssr",
+    "races": [
+      "human"
+    ],
+    "attributes": [
+      "speed"
+    ],
+    "baseNames": [
+      "Queen"
     ]
   }
 ]
