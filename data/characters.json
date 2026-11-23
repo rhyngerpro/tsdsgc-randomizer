@@ -5262,5 +5262,19 @@
     "baseNames": [
       "Queen"
     ]
+  },
+  {
+    "name": "Highest-ranking Demon Cusack [The Prince's Master]",
+    "image": "assets/images/[The Prince's Master] Highest-ranking Demon Cusack.png",
+    "grade": "ssr",
+    "races": [
+      "demon"
+    ],
+    "attributes": [
+      "hp"
+    ],
+    "baseNames": [
+      "Cusack"
+    ]
   }
 ]
