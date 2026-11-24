@@ -253,3 +253,15 @@ input:focus-visible + .slider { outline: 2px solid var(--accent); outline-offset
   text-transform: uppercase;
   color: var(--accent);
 }
+
+/* Redes (Twitch / Discord) */
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+.socials svg { width: 28px; height: 28px; display: block; transition: transform 0.15s, opacity 0.15s; }
+.socials a { opacity: 0.85; }
+.socials a:hover, .socials a:focus-visible { opacity: 1; }
+.socials a:hover svg { transform: scale(1.12); }
